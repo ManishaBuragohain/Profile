@@ -29,7 +29,7 @@ function About() {
         <br />
       </div>
       <div className="tools">
-        <h1 className="lang" style={{ paddingLeft: "38rem", fontSize: "2rem" }}>
+        <h1 className="lang" style={{ paddingLeft: "30rem", fontSize: "2rem" }}>
           Languages and Tools
         </h1>
         <div className="icons">
